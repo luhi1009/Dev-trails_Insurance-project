@@ -267,3 +267,9 @@ We propose a **Hybrid Platform (Mobile + Web Application)** to ensure maximum ac
 
 <img width="864" height="599" alt="image" src="https://github.com/user-attachments/assets/2a01808f-266c-40a1-a04c-2b4fe0ec5f59" />
 
+---
+
+**DEMO VIDEO LINK :**
+
+https://drive.google.com/file/d/11WS1NbeEuKS_tHgZkJjOAp0RnUHn5xwh/view?usp=sharing
+
