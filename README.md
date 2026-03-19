@@ -143,6 +143,7 @@ Work Flow- flow chart:
 
 
 **WEEKLY PRICING MODEL:**
+(Tentative)
 
 | Risk Level | Weekly Premium | Coverage |
 |-----------|--------------|---------|
