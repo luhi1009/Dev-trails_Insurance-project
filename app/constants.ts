@@ -1,0 +1,85 @@
+import { SubscriptionTier } from '@/app/types';
+
+export const SUBSCRIPTION_TIERS: SubscriptionTier[] = [
+  {
+    id: 'tier_1',
+    name: 'Basic',
+    monthlyPrice: 20,
+    coverage: 10000,
+    description: 'Essential coverage for daily deliveries',
+  },
+  {
+    id: 'tier_2',
+    name: 'Plus',
+    monthlyPrice: 40,
+    coverage: 25000,
+    description: 'Enhanced protection with 2.5x coverage',
+  },
+  {
+    id: 'tier_3',
+    name: 'Premium',
+    monthlyPrice: 70,
+    coverage: 50000,
+    description: 'Maximum protection for peace of mind',
+  },
+  {
+    id: 'tier_4',
+    name: 'Elite',
+    monthlyPrice: 100,
+    coverage: 100000,
+    description: 'Comprehensive coverage with extras',
+  },
+];
+
+export const MOCK_RIDES = [
+  {
+    id: '1',
+    date: '2024-03-18',
+    distance: 8.5,
+    duration: 45,
+    earnings: 120,
+    restaurantName: 'Spice Kitchen',
+    rating: 5,
+    deliveryAddress: 'Sector 15, Noida',
+  },
+  {
+    id: '2',
+    date: '2024-03-18',
+    distance: 5.2,
+    duration: 28,
+    earnings: 85,
+    restaurantName: 'Pizza Palace',
+    rating: 4.5,
+    deliveryAddress: 'DLF Mall, Gurgaon',
+  },
+  {
+    id: '3',
+    date: '2024-03-17',
+    distance: 12.1,
+    duration: 52,
+    earnings: 145,
+    restaurantName: 'Burger Barn',
+    rating: 5,
+    deliveryAddress: 'Connaught Place, Delhi',
+  },
+  {
+    id: '4',
+    date: '2024-03-17',
+    distance: 6.8,
+    duration: 35,
+    earnings: 95,
+    restaurantName: 'Chinese House',
+    rating: 4,
+    deliveryAddress: 'Khan Market, Delhi',
+  },
+  {
+    id: '5',
+    date: '2024-03-16',
+    distance: 9.3,
+    duration: 48,
+    earnings: 130,
+    restaurantName: 'South Express',
+    rating: 4.5,
+    deliveryAddress: 'Sector 18, Noida',
+  },
+];
